@@ -1,13 +1,18 @@
-RAG Project
+# 🤖 RAG Project – AI/ML Learning Repository
 
-📌 Project Overview
+Welcome to the **RAG Project**! This repository is developed as part of an Artificial Intelligence and Machine Learning learning activity. It contains Python implementation files, project dependencies, and documentation of machine learning experiments.
 
-This project is developed as part of an AI/ML learning activity. It contains Python implementation files, required dependencies, and a Decision Tree report.
+The project focuses on understanding fundamental Machine Learning concepts, particularly Decision Trees, and implementing them using Python libraries.
 
-The project demonstrates the implementation and documentation of machine learning concepts using Python.
+## 📌 Project Overview
 
-📂 Project Structure
+This repository demonstrates the practical implementation of Machine Learning concepts using Python. It also includes a detailed Decision Tree activity report to explain the theoretical and practical aspects of the model.
 
+The project is maintained using Git and GitHub to practice version control and project management.
+
+## 📂 Project Structure
+
+```text
 Rag-project/
 │
 ├── main.py
@@ -15,58 +20,98 @@ Rag-project/
 ├── Activity_1_Decision_Tree_Report (1).docx
 ├── .gitignore
 └── README.md
+```
 
-🛠️ Technologies Used
+## 🛠️ Technologies & Tools Used
 
-- Python
-- Machine Learning
-- Decision Tree
-- Scikit-learn
-- Pandas
-- NumPy
+- **Python** – Programming language
+- **Machine Learning** – Model development and implementation
+- **Scikit-learn** – Machine Learning algorithms
+- **Pandas** – Data manipulation and analysis
+- **NumPy** – Numerical computations
+- **Git & GitHub** – Version control and repository management
 
-⚙️ Installation
+## ⚙️ Installation & Setup
 
-1. Clone the repository:
+Follow these steps to set up and run the project on your local machine.
 
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/sharmashrutikirti57-code/Rag-project.git
+```
 
-2. Open the project folder:
+### 2. Navigate to the Project Directory
 
+```bash
 cd Rag-project
+```
 
-3. Create a virtual environment:
+### 3. Create a Virtual Environment
 
+```bash
 python -m venv .venv
+```
 
-4. Activate the virtual environment on Windows:
+### 4. Activate the Virtual Environment
 
+For Windows:
+
+```bash
 .venv\Scripts\activate
+```
 
-5. Install the required packages:
+For Linux/macOS:
 
+```bash
+source .venv/bin/activate
+```
+
+### 5. Install Dependencies
+
+```bash
 pip install -r requirement.txt
+```
 
-▶️ How to Run
+## ▶️ Running the Project
 
-Run the Python program using:
+After completing the installation, execute the following command:
 
+```bash
 python main.py
+```
 
-📄 Project Report
+## 📄 Project Documentation
 
-The repository also contains the Decision Tree Report, which provides the documentation related to the activity.
+This repository includes the following documentation:
 
-🎯 Objective
+**Activity 1 – Decision Tree Report**
 
-The main objective of this project is to understand and implement machine learning concepts using Python and maintain the project using Git and GitHub.
+The report contains the documentation of the Decision Tree activity, covering the relevant Machine Learning concepts and implementation.
 
-👩‍💻 Author
+## 🎯 Project Objectives
 
-Shruti Kirti
+- Understand the fundamentals of Artificial Intelligence and Machine Learning.
+- Learn the implementation of Machine Learning algorithms using Python.
+- Understand Decision Tree classification.
+- Gain practical experience with Scikit-learn, Pandas, and NumPy.
+- Learn to organize and maintain Python projects.
+- Practice using Git and GitHub for version control.
 
-GitHub: "sharmashrutikirti57-code"
+## 🚀 Learning Outcomes
 
-📜 License
+Through this project, I aim to develop practical knowledge of Machine Learning, improve Python programming skills, and gain experience in managing and documenting AI/ML projects.
 
-This project is created for educational purposes.
+## 👩‍💻 Author
+
+**Shruti Kirti**
+
+GitHub: [@sharmashrutikirti57-code](https://github.com/sharmashrutikirti57-code)
+
+## 📜 License
+
+This project is created for educational and learning purposes.
+
+---
+
+⭐ **If you find this repository useful, feel free to explore the code and documentation!**
