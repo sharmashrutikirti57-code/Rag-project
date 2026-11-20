@@ -1,14 +1,10 @@
 # 🤖 RAG Project – AI/ML Learning Repository
 
-Welcome to the **RAG Project**! This repository is developed as part of an Artificial Intelligence and Machine Learning learning activity. It contains Python implementation files, project dependencies, and documentation of machine learning experiments.
-
-The project focuses on understanding fundamental Machine Learning concepts, particularly Decision Trees, and implementing them using Python libraries.
-
 ## 📌 Project Overview
 
-This repository demonstrates the practical implementation of Machine Learning concepts using Python. It also includes a detailed Decision Tree activity report to explain the theoretical and practical aspects of the model.
+Welcome to the **RAG Project**! This repository is developed as part of an Artificial Intelligence and Machine Learning learning activity.
 
-The project is maintained using Git and GitHub to practice version control and project management.
+It contains Python implementation files, project dependencies, and a Decision Tree activity report. The project focuses on understanding and implementing Machine Learning concepts using Python.
 
 ## 📂 Project Structure
 
@@ -22,18 +18,18 @@ Rag-project/
 └── README.md
 ```
 
-## 🛠️ Technologies & Tools Used
+## 🛠️ Technologies Used
 
 - **Python** – Programming language
 - **Machine Learning** – Model development and implementation
 - **Scikit-learn** – Machine Learning algorithms
 - **Pandas** – Data manipulation and analysis
 - **NumPy** – Numerical computations
-- **Git & GitHub** – Version control and repository management
+- **Git & GitHub** – Version control and project management
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation and Setup
 
-Follow these steps to set up and run the project on your local machine.
+Follow these steps to run the project on your local machine.
 
 ### 1. Clone the Repository
 
@@ -41,7 +37,7 @@ Follow these steps to set up and run the project on your local machine.
 git clone https://github.com/sharmashrutikirti57-code/Rag-project.git
 ```
 
-### 2. Navigate to the Project Directory
+### 2. Navigate to the Project Folder
 
 ```bash
 cd Rag-project
@@ -67,15 +63,15 @@ For Linux/macOS:
 source .venv/bin/activate
 ```
 
-### 5. Install Dependencies
+### 5. Install Required Dependencies
 
 ```bash
 pip install -r requirement.txt
 ```
 
-## ▶️ Running the Project
+## ▶️ How to Run the Project
 
-After completing the installation, execute the following command:
+After installing all the dependencies, execute the following command:
 
 ```bash
 python main.py
@@ -83,28 +79,34 @@ python main.py
 
 ## 📄 Project Documentation
 
-This repository includes the following documentation:
+This repository includes a Decision Tree activity report.
 
 **Activity 1 – Decision Tree Report**
 
-The report contains the documentation of the Decision Tree activity, covering the relevant Machine Learning concepts and implementation.
+The report covers the theoretical and practical aspects of Decision Trees, including relevant Machine Learning concepts and their implementation.
 
 ## 🎯 Project Objectives
 
 - Understand the fundamentals of Artificial Intelligence and Machine Learning.
-- Learn the implementation of Machine Learning algorithms using Python.
+- Learn how to implement Machine Learning algorithms using Python.
 - Understand Decision Tree classification.
-- Gain practical experience with Scikit-learn, Pandas, and NumPy.
-- Learn to organize and maintain Python projects.
-- Practice using Git and GitHub for version control.
+- Explore the use of Scikit-learn, Pandas, and NumPy.
+- Gain practical experience in Python project development.
+- Learn Git and GitHub for version control and project management.
 
 ## 🚀 Learning Outcomes
 
-Through this project, I aim to develop practical knowledge of Machine Learning, improve Python programming skills, and gain experience in managing and documenting AI/ML projects.
+By working on this project, I aim to:
+
+- Develop practical knowledge of Machine Learning.
+- Improve Python programming skills.
+- Understand basic Machine Learning workflows.
+- Gain experience in organizing and documenting projects.
+- Learn to manage projects using Git and GitHub.
 
 ## 👩‍💻 Author
 
-**Shruti Kirti**
+**Shruti Kirti Sharma**
 
 GitHub: [@sharmashrutikirti57-code](https://github.com/sharmashrutikirti57-code)
 
@@ -114,4 +116,4 @@ This project is created for educational and learning purposes.
 
 ---
 
-⭐ **If you find this repository useful, feel free to explore the code and documentation!**
+⭐ If you find this repository useful, feel free to explore the code and documentation!
